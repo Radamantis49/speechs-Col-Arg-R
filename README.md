@@ -1,0 +1,1 @@
+Proyecto de webscraping y minería de texto para analizar los discursos presidenciales de los presidentes argentinos Cristina Fernández de Kirchner, Alberto Fernández, Mauricio Macri y Javier Milei y de los presidentes colombianos Juan Manuel Santos, Ivan Duque y Gustavo Petro, usando R.
